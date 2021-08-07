@@ -1,0 +1,10 @@
+	Projeto desenvolvido para as atividades contínuas 08, 09 e 10 da disciplina de  introdução à programação, do 1° semestre do curso de Jogos Digitais da Faculdade Impacta de Tecnologia - FIT, ministrada pelo prof. Msc. Adilson Ferreira da Silva, cuja equipe de desenvolvimento é composta por:
+
+	Larissa Cristina Benedito
+
+	Luiz Eduardo da Silva Barbosa
+
+	Luiz Henrique dos Santos Arcas
+
+					Maio/2019.
+

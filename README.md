@@ -6,7 +6,9 @@
   Jogo desenvolvido em grupo durante o primeiro semestre do tecnólogo de Jogos Digitais na Faculdade Impacta Tecnologia. 2019/01.
 </h4>
 
-[![Watch the video](https://img.youtube.com/vi/vUp4MZWfRqo/video.jpg)](https://youtu.be/vUp4MZWfRqo)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/50052600/147153284-4f88613f-557b-4e3d-950c-beb33e8f7993.jpg" alt="Logo Kerby" width="80%"/>
+</P>
 
 <h4 align="center"><a href="https://mewmewdevart.itch.io/reino-felino">Clique aqui para jogar</a></h4>
 
@@ -17,9 +19,16 @@ CardGame para o publico jovem de 12 a 24 anos.
 
 ---
 
-### ⚙️ Technologies
+### ⚙️ Tecnologias
 - C
 - Aseprite : PixelArt
 - FreeSound : Musicas
+
+---
+
+### ⚙️ Grupo
+- Larissa Cristina : Arte e Documentação
+- Luiz Eduardo : Programador
+- Luiz Arcas : Roteirista
 
 <p align="center"> Desenvolvido com 💜 por Larissa, Luiz Ed. e Luiz Arcas </p>
